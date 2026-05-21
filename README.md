@@ -12,8 +12,10 @@
 - 他人个人数据
 
 ## 学习资源
-- **Handbook**: [AI × Web3 School Handbook](https://example.com/handbook)
-- **WCB Learning**: [Web3Career Learning Platform](https://web3career.build)
+- **Handbook**: [AI × Web3 School Handbook](https://aiweb3.school/zh/handbook/)
+- **WCB 课程页面**: [AI × Web3 School](https://web3career.build/zh/programs/AI-Web3-School)
+- **WCB Learning**: [Learning Tab](https://web3career.build/zh/programs/AI-Web3-School#tab=learning)
+- **WCB Agent API 文档**: [llms.txt](https://web3career.build/llms.txt)
 
 ## 目录结构
 ```
@@ -45,6 +47,12 @@
 4. 生成打卡内容
 5. 手动提交到WCB平台
 
+## Handbook Feedback 流程
+1. 学习时发现概念不清、错别字、资料过期或结构建议
+2. 在 `handbook-feedback/` 新增一条 feedback 记录
+3. 每条记录尽量包含：Handbook 页面链接、问题描述、建议改法、来源日期
+4. 不写入隐私信息、内部链接或未公开资料
+
 ## 贡献指南
 - 保持记录的及时性和准确性
 - 提供具体的反馈和建议
@@ -52,4 +60,4 @@
 
 ---
 
-*最后更新：2026年5月20日*
+*最后更新：2026年5月21日*
